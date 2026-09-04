@@ -1,6 +1,6 @@
 
 
-<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/bd1c0744-87b2-4441-91bd-1b22de50f345" />
+<img width="2000" height="2000" alt="Image" src="https://github.com/user-attachments/assets/bd1c0744-87b2-4441-91bd-1b22de50f345" />
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[EXAMPLE](https://pronouns.cc/@rubyrostic)
